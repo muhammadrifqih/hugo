@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Pelajar gabut
+        subtitle: Pelajar gabut yang suka ngoding
         avatar:
             enabled: true
             local: true
