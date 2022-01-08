@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: id-id
 theme: hugo-theme-stack
 paginate: 5
-title: Rifqi
+title: R Code
 
 # Change it to your Disqus shortname before using
 disqusShortname: rifqimuhammad
@@ -38,7 +38,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 	⌨️
         subtitle: Pelajar gabut yang suka ngoding
         avatar:
             enabled: true
@@ -176,21 +176,30 @@ menu:
           weight: -100
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
+              newTab: false
               icon: home
     
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/muhammadrifqih
           params:
             icon: brand-github
+            newTab: true
             
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/mrifqiiki/
           params:
-            icon: brand-twitter
+            icon: brand-instagram
+            newTab: true
+
+        - identifier: youtube
+          name: Youtube
+          url: https://www.youtube.com/c/RIFQIIQI/
+          params:
+            icon: brand-youtube
+            newTab: true
 
 related:
     includeNewer: true
