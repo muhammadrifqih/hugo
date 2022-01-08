@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rifqi</title><link>https://example.com/</link><description>Recent content on Rifqi</description><generator>Hugo -- gohugo.io</generator><language>id-id</language><lastBuildDate>Sat, 08 Jan 2022 14:33:53 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to My Blog</title><link>https://example.com/p/welcome-to-my-blog/</link><pubDate>Sat, 08 Jan 2022 14:33:53 +0800</pubDate><guid>https://example.com/p/welcome-to-my-blog/</guid><description>&lt;p>Hello World!!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R Code</title><link>https://example.com/</link><description>Recent content on R Code</description><generator>Hugo -- gohugo.io</generator><language>id-id</language><lastBuildDate>Sat, 08 Jan 2022 14:33:53 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to My Blog</title><link>https://example.com/p/welcome-to-my-blog/</link><pubDate>Sat, 08 Jan 2022 14:33:53 +0800</pubDate><guid>https://example.com/p/welcome-to-my-blog/</guid><description>&lt;img src="https://example.com/p/welcome-to-my-blog/code.png" alt="Featured image of post Welcome to My Blog" />&lt;p>Hello World!!
 kenalin aku hehe&amp;hellip;&lt;/p>
 &lt;p>&lt;figure
 class="gallery-image"
 style="
-flex-grow: 100;
-flex-basis: 240px"
+flex-grow: 160;
+flex-basis: 384px"
 >
-&lt;a href="https://example.com/p/welcome-to-my-blog/Rcode.png" data-size="1500x1500">
+&lt;a href="https://example.com/p/welcome-to-my-blog/Rcode.png" data-size="1600x1000">
 &lt;img src="https://example.com/p/welcome-to-my-blog/Rcode.png"
-width="1500"
-height="1500"
-srcset="https://example.com/p/welcome-to-my-blog/Rcode_hu257aec0152d11c0462d2937463e7e55c_68769_480x0_resize_box_3.png 480w, https://example.com/p/welcome-to-my-blog/Rcode_hu257aec0152d11c0462d2937463e7e55c_68769_1024x0_resize_box_3.png 1024w"
+width="1600"
+height="1000"
+srcset="https://example.com/p/welcome-to-my-blog/Rcode_hud93a126b8851d35ed08cd493d2c4e919_28765_480x0_resize_box_3.png 480w, https://example.com/p/welcome-to-my-blog/Rcode_hud93a126b8851d35ed08cd493d2c4e919_28765_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="R code">
 &lt;/a>
