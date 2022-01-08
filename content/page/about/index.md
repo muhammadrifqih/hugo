@@ -1,13 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Manusia Gabut
+date: '2022-01-08'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-01-08'
 menu:
     main: 
         weight: -90
@@ -15,4 +15,5 @@ menu:
             icon: user
 ---
 
-Saya seorang manusia yang gabut dan tidak ada kerjaan.
+Hi, Saya Rifqi kegiatan saya tidak ada saya hanya membuat blog dan belajar beberapa bahasa programan di youtobe.
+Bahasa Programan yang saya pelajari saat ini adalah Dart dengan Flutter.
