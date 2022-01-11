@@ -1,0 +1,13 @@
+---
+author: Katheryn Fox
+title: About Me
+date: 2021-07-15
+description:
+keywords: ["about-us", "about-hugo", "contact"]
+type: about
+---
+
+
+Hai kenalin aku rifqi. <br>
+Keliatan Baget yah kalau aku gabut, Karena itu aku suka goding.
+![](/img/code.png)
